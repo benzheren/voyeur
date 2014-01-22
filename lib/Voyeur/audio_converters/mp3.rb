@@ -6,7 +6,7 @@ module Voyeur
     end
 
     def convert_options
-      "-ar 44100 -ac 2 -ab 192 -f mp3" 
+      "-ar 44100 -ac 2 -ab 192k -f mp3" 
     end
   end
 
