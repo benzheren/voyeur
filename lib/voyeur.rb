@@ -9,5 +9,6 @@ require "Voyeur/video_converters/iphone"
 require "Voyeur/audio_converters/aac"
 require "Voyeur/audio_converters/ogg"
 require "Voyeur/audio_converters/mp3"
+require "Voyeur/audio_converters/mp3l"
 require "Voyeur/media_time"
 require 'open4'
